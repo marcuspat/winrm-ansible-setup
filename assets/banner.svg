@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="winrm-ansible-setup: Single PowerShell script that runs Ansible's upstream">
+<title>winrm-ansible-setup</title>
+<defs>
+<radialGradient id="aur1"><stop offset="0" stop-color="#22d3ee" stop-opacity="0.50"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+<radialGradient id="aur2"><stop offset="0" stop-color="#7c3aed" stop-opacity="0.45"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+<radialGradient id="orb"><stop offset="0" stop-color="#22d3ee" stop-opacity="0.9"/><stop offset="0.55" stop-color="#22d3ee" stop-opacity="0.25"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+<linearGradient id="tgrad" x1="0" x2="1"><stop offset="0" stop-color="#c9a227"/><stop offset="0.6" stop-color="#ffffff"/><stop offset="1" stop-color="#c9a227"/></linearGradient>
+<linearGradient id="beam" x1="0" x2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset="0.5" stop-color="#ffffff" stop-opacity="0.45"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient>
+<linearGradient id="hglow" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#c9a227" stop-opacity="0.30"/><stop offset="1" stop-color="#c9a227" stop-opacity="0"/></linearGradient>
+<filter id="soft" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="30"/></filter>
+<filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="5"/></filter>
+<filter id="glow2" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="10"/></filter>
+</defs>
+<rect width="1200" height="400" fill="#04060c"/>
+<ellipse cx="250" cy="120" rx="360" ry="190" fill="url(#aur1)" filter="url(#soft)">
+<animateTransform attributeName="transform" type="translate" values="0 0; 70 24; -40 12; 0 0" dur="26s" repeatCount="indefinite"/>
+</ellipse>
+<ellipse cx="960" cy="150" rx="400" ry="210" fill="url(#aur2)" filter="url(#soft)">
+<animateTransform attributeName="transform" type="translate" values="0 0; -60 18; 34 -12; 0 0" dur="32s" repeatCount="indefinite"/>
+</ellipse>
+<g><circle cx="485" cy="182" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="4.26s" begin="-3.84s" repeatCount="indefinite"/></circle>
+<circle cx="33" cy="151" r="1.6" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="4.48s" begin="-3.92s" repeatCount="indefinite"/></circle>
+<circle cx="1052" cy="206" r="2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.55s" begin="-0.56s" repeatCount="indefinite"/></circle>
+<circle cx="733" cy="170" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.40s" begin="-0.55s" repeatCount="indefinite"/></circle>
+<circle cx="1029" cy="188" r="1.6" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.87s" begin="-0.91s" repeatCount="indefinite"/></circle>
+<circle cx="553" cy="172" r="1.6" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.91s" begin="-0.07s" repeatCount="indefinite"/></circle>
+<circle cx="960" cy="69" r="1" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="4.56s" begin="-0.96s" repeatCount="indefinite"/></circle>
+<circle cx="790" cy="171" r="1" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="4.56s" begin="-2.59s" repeatCount="indefinite"/></circle>
+<circle cx="1020" cy="36" r="1.6" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.99s" begin="-3.21s" repeatCount="indefinite"/></circle>
+<circle cx="109" cy="57" r="1" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.24s" begin="-2.36s" repeatCount="indefinite"/></circle>
+<circle cx="524" cy="49" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.97s" begin="-3.95s" repeatCount="indefinite"/></circle>
+<circle cx="860" cy="63" r="1" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.41s" begin="-2.80s" repeatCount="indefinite"/></circle>
+<circle cx="351" cy="101" r="2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.91s" begin="-1.41s" repeatCount="indefinite"/></circle>
+<circle cx="455" cy="110" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="4.20s" begin="-3.59s" repeatCount="indefinite"/></circle>
+<circle cx="238" cy="194" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.18s" begin="-4.30s" repeatCount="indefinite"/></circle>
+<circle cx="757" cy="153" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.40s" begin="-1.52s" repeatCount="indefinite"/></circle>
+<circle cx="642" cy="153" r="1" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.41s" begin="-2.91s" repeatCount="indefinite"/></circle>
+<circle cx="163" cy="76" r="1" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="4.05s" begin="-2.29s" repeatCount="indefinite"/></circle>
+<circle cx="933" cy="25" r="2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.62s" begin="-2.89s" repeatCount="indefinite"/></circle>
+<circle cx="307" cy="195" r="1.2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.94s" begin="-0.34s" repeatCount="indefinite"/></circle>
+<circle cx="83" cy="97" r="1.6" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="4.27s" begin="-3.46s" repeatCount="indefinite"/></circle>
+<circle cx="161" cy="103" r="1" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.80s" begin="-0.02s" repeatCount="indefinite"/></circle>
+<circle cx="1073" cy="209" r="1.6" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.34s" begin="-4.35s" repeatCount="indefinite"/></circle>
+<circle cx="697" cy="59" r="2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="2.44s" begin="-3.64s" repeatCount="indefinite"/></circle>
+<circle cx="824" cy="201" r="1" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="3.73s" begin="-2.20s" repeatCount="indefinite"/></circle>
+<circle cx="981" cy="172" r="2" fill="#dbe7ff"><animate attributeName="opacity" values="0.08;0.85;0.08" dur="4.47s" begin="-1.27s" repeatCount="indefinite"/></circle></g>
+<rect x="0" y="236" width="1200" height="130" fill="url(#hglow)">
+<animate attributeName="opacity" values="0.45;0.9;0.45" dur="7s" repeatCount="indefinite"/>
+</rect>
+<circle cx="600" cy="242" r="90" fill="url(#orb)">
+<animate attributeName="r" values="78;110;78" dur="6s" repeatCount="indefinite"/>
+</circle>
+<path d="M600 240 L-150 400 M600 240 L0 400 M600 240 L150 400 M600 240 L300 400 M600 240 L450 400 M600 240 L600 400 M600 240 L750 400 M600 240 L900 400 M600 240 L1050 400 M600 240 L1200 400 M600 240 L1350 400" stroke="#155e75" stroke-width="1.3" opacity="0.55" fill="none" stroke-dasharray="12 16">
+<animate attributeName="stroke-dashoffset" values="0;-56" dur="0.9s" repeatCount="indefinite"/>
+</path>
+<path d="M0 252 H1200 M0 268 H1200 M0 290 H1200 M0 318 H1200 M0 352 H1200 M0 392 H1200" stroke="#155e75" stroke-width="1" opacity="0.35" fill="none"/>
+<circle cx="600" cy="241" r="4" fill="#c9a227" filter="url(#glow2)">
+<animate attributeName="opacity" values="0.6;1;0.6" dur="2.6s" repeatCount="indefinite"/>
+</circle>
+<rect x="-260" y="-90" width="170" height="580" fill="url(#beam)" opacity="0.10" filter="url(#soft)" transform="rotate(14)">
+<animateTransform attributeName="transform" type="translate" additive="sum" values="-350 0;1750 0" dur="7s" repeatCount="indefinite"/>
+</rect>
+<rect x="-260" y="-90" width="170" height="580" fill="url(#beam)" opacity="0.07" filter="url(#soft)" transform="rotate(14)">
+<animateTransform attributeName="transform" type="translate" additive="sum" values="-350 0;1750 0" dur="7s" begin="-3.4s" repeatCount="indefinite"/>
+</rect>
+<text x="600" y="66" text-anchor="middle" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="13" letter-spacing="6" fill="#c9a227" opacity="0.85">MARCUSPAT · WINRM-ANSIBLE-SETUP</text>
+<text x="600" y="152" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="74" font-weight="800" letter-spacing="1" fill="#c9a227" opacity="0.55" filter="url(#glow2)">winrm-ansible-setup</text>
+<text x="600" y="152" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="74" font-weight="800" letter-spacing="1" fill="url(#tgrad)">winrm-ansible-setup</text>
+<text x="600" y="198" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="19" letter-spacing="0.4" fill="#a8b3c4">Single PowerShell script that runs Ansible's upstream</text>
+<text x="600" y="224" text-anchor="middle" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="19" letter-spacing="0.4" fill="#a8b3c4">ConfigureRemotingForAnsible.ps1 to prep a Windows host for WinRM.</text>
+
+<g transform="translate(600,308)">
+
+<g transform="translate(-300,0)">
+<rect x="-70" y="-70" width="140" height="140" rx="10" fill="#0d1117" stroke="#8a7a5c" stroke-width="2"/>
+<rect x="-62" y="-62" width="60" height="60" fill="#241e12"/><rect x="2" y="-62" width="60" height="60" fill="#16130c"/>
+<rect x="-62" y="2" width="60" height="60" fill="#16130c"/><rect x="2" y="2" width="60" height="60" fill="#241e12"/>
+<text y="92" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="13" fill="#9a8c72" text-anchor="middle">windows host</text>
+</g>
+<g stroke="#c9a227" stroke-width="2" stroke-dasharray="6 6">
+<line x1="-170" y1="0" x2="150" y2="0"><animate attributeName="stroke-dashoffset" values="0;-24" dur="1s" repeatCount="indefinite"/></line>
+</g>
+<text x="-10" y="-14" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="13" fill="#d4c9a8" text-anchor="middle">WinRM 5985</text>
+<g transform="translate(240,0)">
+<rect x="-90" y="-36" width="180" height="72" rx="8" fill="#16130c" stroke="#8a7a5c" stroke-width="2"/>
+<text x="0" y="-8" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="16" fill="#d4c9a8" text-anchor="middle">PS&gt; _</text>
+<text x="0" y="18" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="12" fill="#9a8c72" text-anchor="middle">ConfigureRemoting…</text>
+<animate attributeName="opacity" values="1;1;0.45;1;1" keyTimes="0;0.45;0.5;0.55;1" dur="3s" repeatCount="indefinite"/>
+</g>
+
+</g>
+</svg>

@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.svg" alt="winrm-ansible-setup — animated banner" width="100%"></p>
+
 # PowerShell WinRM Setup for Ansible
 
 A single PowerShell script that prepares a Windows host for Ansible management over WinRM.
